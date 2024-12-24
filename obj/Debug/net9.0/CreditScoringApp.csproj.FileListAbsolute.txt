@@ -1,0 +1,14 @@
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/bin/Debug/net9.0/CreditScoringApp
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/bin/Debug/net9.0/CreditScoringApp.deps.json
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/bin/Debug/net9.0/CreditScoringApp.runtimeconfig.json
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/bin/Debug/net9.0/CreditScoringApp.dll
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/bin/Debug/net9.0/CreditScoringApp.pdb
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/obj/Debug/net9.0/CreditScoringApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/obj/Debug/net9.0/CreditScoringApp.AssemblyInfoInputs.cache
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/obj/Debug/net9.0/CreditScoringApp.AssemblyInfo.cs
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/obj/Debug/net9.0/CreditScoringApp.csproj.CoreCompileInputs.cache
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/obj/Debug/net9.0/CreditScoringApp.dll
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/obj/Debug/net9.0/refint/CreditScoringApp.dll
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/obj/Debug/net9.0/CreditScoringApp.pdb
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/obj/Debug/net9.0/CreditScoringApp.genruntimeconfig.cache
+/Users/achrafgasmi/Desktop/Axe/AI_CreditScoring/CreditScoringApp/obj/Debug/net9.0/ref/CreditScoringApp.dll
